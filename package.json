@@ -1,12 +1,12 @@
 {
   "name": "rest-client",
-  "displayName": "REST Client",
+  "displayName": "REST Client Pro",
   "description": "REST Client for Visual Studio Code",
   "version": "0.24.6",
-  "publisher": "humao",
+  "publisher": "Truman Du",
   "author": {
-    "name": "Huachao Mao",
-    "email": "huachaomao@gmail.com"
+    "name": "Truman Du",
+    "email": "truman.p.du@gmail.com"
   },
   "icon": "images/rest_icon.png",
   "galleryBanner": {
@@ -14,14 +14,10 @@
     "theme": "dark"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Huachao/vscode-restclient/issues",
-    "email": "huachaomao@gmail.com"
-  },
-  "homepage": "https://github.com/Huachao/vscode-restclient/blob/master/README.md",
+  "homepage": "https://github.com/TrumanDu/vscode-restclient/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Huachao/vscode-restclient.git"
+    "url": "https://github.com/TrumanDu/vscode-restclient"
   },
   "engines": {
     "vscode": "^1.57.0"
