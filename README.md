@@ -9,7 +9,7 @@ REST Client Pro allows you to send HTTP request and view the response in Visual 
 - add directory structure
 - replace `"Send Request` to `▶`
 
-![](images/outline_pro.png)
+![](https://raw.githubusercontent.com/TrumanDu/vscode-restclient/master/images/outline_pro.png)
 
 ## Main Features
 
