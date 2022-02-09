@@ -1,11 +1,11 @@
 {
-  "name": "rest-client",
+  "name": "rest-client-pro",
   "displayName": "REST Client Pro",
   "description": "REST Client for Visual Studio Code",
-  "version": "0.24.6",
-  "publisher": "Truman Du",
+  "version": "0.24.7",
+  "publisher": "truman",
   "author": {
-    "name": "Truman Du",
+    "name": "truman",
     "email": "truman.p.du@gmail.com"
   },
   "icon": "images/rest_icon.png",
